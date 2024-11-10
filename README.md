@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -23,7 +23,7 @@
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/rinta-git/QR-CODE-STATIC-APP/blob/main/index.html)
+- Solution URL: [Code](https://github.com/rinta-git/QR-CODE-STATIC-APP/blob/main/index.html)
 - Live Site URL: [QR-CODE-APP](https://rinta-git.github.io/QR-CODE-STATIC-APP/)
 
 ## My process
@@ -42,7 +42,7 @@ Revised the use of flexbox and usage of css variables.
 
 ### Useful resources
 
-- [Resource 1 for CSS](https://web.dev/learn/css/) - This website helped me for quick recap over css properties. I really liked this detailed explanation and will use it going forward.
+- [Resource for CSS](https://web.dev/learn/css/) - This website helped me for quick recap over css properties. I really liked this detailed explanation and will use it going forward.
 - [Video resource](https://www.youtube.com/watch?v=xCSw6bPXZks&ab_channel=CoderCoder) - This is an amazing youtube video which helped me finally understand why not to use px instead of rem for font-size. I'd recommend it to anyone still learning this concept.
 
 ## Author
