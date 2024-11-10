@@ -23,8 +23,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/rinta-git/QR-CODE-STATIC-APP/blob/main/index.html)
+- Live Site URL: [QR-CODE-APP](https://rinta-git.github.io/QR-CODE-STATIC-APP/)
 
 ## My process
 
@@ -47,5 +47,5 @@ Revised the use of flexbox and usage of css variables.
 
 ## Author
 
-- Website - [Rinta Roy](https://www.your-site.com)
+- Website - [Rinta Roy](https://www.linkedin.com/in/rinta-roy)
 - Frontend Mentor - [@rinta-git](https://www.frontendmentor.io/profile/rinta-git)
